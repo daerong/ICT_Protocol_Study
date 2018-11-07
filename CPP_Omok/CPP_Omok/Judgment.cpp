@@ -208,6 +208,8 @@ void Judgment::GamePlay()
 			cout << "                                                                  " << endl;
 		}
 		gotoxy(0, 24);
+
+		int a = 0;
 		switch (result)
 		{
 			case 33:
